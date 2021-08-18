@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gurdarshan-Singh
 - 👀 I Love CODING
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and Web Dev
 - 📫 Linkedin=https://www.linkedin.com/in/gurdarshan-singh-401aa5157/
 
 <!---
