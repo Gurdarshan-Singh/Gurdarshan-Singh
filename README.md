@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gurdarshan-Singh
-- 👀 I Love CODING
+- 👀 I Love 👨‍💻
 - 🌱 I’m currently learning more and more
 - 📫 Linkedin=https://www.linkedin.com/in/gurdarshan-singh-401aa5157/
 
