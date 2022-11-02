@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gurdarshan-Singh
+- 👋 Hi, I’m Gurdarshan-Singh
 - 👀 I Love CODING
-- 🌱 I’m currently learning DSA and Web Dev
+- 🌱 I’m currently learning more and more
 - 📫 Linkedin=https://www.linkedin.com/in/gurdarshan-singh-401aa5157/
 
 <!---
