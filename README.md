@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://quiet-eyrie-13046.herokuapp.com/](https://quiet-eyrie-13046.herokuapp.com/)
 
-- 💬 Ask me about **I’ve always been a great problem solver, an independent introvert, and a technophile obsessed with the latest devices.**
-
 - 📫 How to reach me **gurdarshan408@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pFfh_V6LL0UqCZxZLiGbRoeq9gM-YnZS/view?usp=sharing](https://drive.google.com/file/d/1pFfh_V6LL0UqCZxZLiGbRoeq9gM-YnZS/view?usp=sharing)
