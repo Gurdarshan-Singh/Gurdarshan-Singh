@@ -1,4 +1,4 @@
-
+![logo](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 <h1 align="center">Hi 👋, I'm Gurdarshan Singh</h1>
 <h3 align="center">A passionate SDE and Full Stack Developer</h3>
 <img align="right" width="400" src="https://media.baamboozle.com/uploads/images/56920/1647444095_215600_gif-url.gif">
