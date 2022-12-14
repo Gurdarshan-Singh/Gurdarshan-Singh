@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **any Projects**
 
-- 👨‍💻 All of my projects are available at [https://quiet-eyrie-13046.herokuapp.com/](https://quiet-eyrie-13046.herokuapp.com/)
+- 👨‍💻 Some of my projects are available at [https://quiet-eyrie-13046.herokuapp.com/](https://quiet-eyrie-13046.herokuapp.com/)
 
 - 📫 How to reach me **gurdarshan408@gmail.com**
 
