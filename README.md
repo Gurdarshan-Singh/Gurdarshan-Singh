@@ -4,17 +4,16 @@
 <img align="right" width="400" src="https://media.baamboozle.com/uploads/images/56920/1647444095_215600_gif-url.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurdarshan-singh&label=Profile%20views&color=0e75b6&style=flat" alt="gurdarshan-singh" /> </p>
 
-- 🔭 I’m currently working on **Disease Detection (ML)**
+- 🔭 I recently worked as a Systems Developer at MPAC, focusing on React, AWS, and Terraform.
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m expanding my skills in cloud computing, DevOps, and large language models.
 
-- 👯 I’m looking to collaborate on **any Projects**
+- 👯 I’m open to collaborating on full-stack web apps, cloud-based solutions, or AI/ML projects.
 
-- 👨‍💻 Some of my projects are available at [https://quiet-eyrie-13046.herokuapp.com/](https://quiet-eyrie-13046.herokuapp.com/)
+- 👨‍💻 Some of my projects, including SymboleoGPT and encrypted messaging apps, are available on my GitHub
 
-- 📫 How to reach me **gurdarshan408@gmail.com**
+- 📫 Reach me at gsing189@uottawa.ca
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pFfh_V6LL0UqCZxZLiGbRoeq9gM-YnZS/view?usp=sharing](https://drive.google.com/file/d/1pFfh_V6LL0UqCZxZLiGbRoeq9gM-YnZS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
